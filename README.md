@@ -20,7 +20,8 @@ Supports high-speed multi-threaded downloads, theme customization, history track
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your app here)*
+<img width="870" height="438" alt="image" src="https://github.com/user-attachments/assets/ab96649b-8fc0-467e-a51b-da3d57b4057e" />
+
 
 ---
 
