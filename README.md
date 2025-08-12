@@ -1,7 +1,5 @@
 # Simple-Youtube-Video-Audio-Downloader
 
-# 🎥 YouTube Downloader (Advanced GUI)
-
 An advanced YouTube Video & Audio Downloader with a modern, user-friendly interface built using **Python (Tkinter)** and **yt-dlp**.  
 Supports high-speed multi-threaded downloads, theme customization, history tracking, and more!
 
